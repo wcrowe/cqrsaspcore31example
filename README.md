@@ -1,1 +1,1 @@
-"# cqrsaspcore31example" 
+"cqrsaspcore31example" 
